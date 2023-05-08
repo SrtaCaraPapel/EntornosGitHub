@@ -10,5 +10,5 @@ class sumaTest {
 		Suma S=new Suma(2,3);
 		assertTrue(S.sumar() == 5);
 	}
-
+// Comentario de Jesús Avilés Martínez
 }
